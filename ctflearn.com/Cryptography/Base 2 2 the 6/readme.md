@@ -1,6 +1,6 @@
 ## Base 2 2 the 6
 
-![Base 2 2 the 6 - Cryptography](https://github.com/raxh918/CTF/blob/main/ctflearn.com/Base%202%202%20the%206/image.png)
+![Base 2 2 the 6 - Cryptography](https://raw.githubusercontent.com/raxh918/CTF/refs/heads/main/ctflearn.com/Cryptography/Base%202%202%20the%206/image.png)
 
  Solution
 
