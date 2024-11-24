@@ -13,7 +13,7 @@
 ### Cryptography
 
 1. [Base 2 2 the 6](https://github.com/raxh918/CTF/tree/main/ctflearn.com/Cryptography/Base%202%202%20the%206)
-![Base 2 2 the 6](https://github.com/raxh918/CTF/blob/main/ctflearn.com/Cryptography/SBase%202%202%20the%206/image.png)
+![Base 2 2 the 6](https://github.com/raxh918/CTF/blob/main/ctflearn.com/Cryptography/Base%202%202%20the%206/image.png)
 
 ### Programing
 
