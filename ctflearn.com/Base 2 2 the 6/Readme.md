@@ -10,4 +10,4 @@
 ![Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9](https://raw.githubusercontent.com/raxh918/CTF/refs/heads/main/ctflearn.com/Base%202%202%20the%206/Screenshot%202024-11-24%20174715.png)
 4. Results:
 ![Base64](https://raw.githubusercontent.com/raxh918/CTF/refs/heads/main/ctflearn.com/Base%202%202%20the%206/Screenshot%202024-11-24%20174734.png)
-5. Flag: ```CTF{FlaggyWaggyRaggy```
+5. Flag: ```CTF{FlaggyWaggyRaggy}```
